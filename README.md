@@ -1,6 +1,6 @@
 # [中文说明](./README_cn.md)
 
-# Note: This project can help users quickly familiarize themselves with plugin usage, such as flow control, saving archives, and level switching.
+# Note: This project can help users quickly familiarize themselves with plugin usage, such as archive world, archive objects, world switching, automatic sub-level save and load, and flow control, and struct serialization.
 
 # Setup
  1. Add 'LQuickFrame' to the project plugin folder and enable the plugin.
