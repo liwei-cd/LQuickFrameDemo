@@ -44,8 +44,6 @@
  * 3. Call LBaseInterface->OnInit(true) on all objects.
  * 4. Call LGameInst::OnGameStart
  */
- LGameInst->NewWorld
- // Load World
  LGameInst->LoadWorld
  // Open and Close Levels
  LGameInst->OpenCloseLevels

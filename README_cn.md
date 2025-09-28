@@ -41,7 +41,6 @@
  * 3. 调用所有对象 LBaseInterface->OnInit(true)
  * 4. 调用 LGameInst::OnGameStart
  */
- //读档世界
  LGameInst->LoadWorld
  //打开和释放关卡
  LGameInst->OpenCloseLevels
