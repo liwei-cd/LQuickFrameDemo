@@ -2,6 +2,8 @@
  UE保存和加载游戏，自动子关卡存读档，流程控制，场景切换，结构体序列化。
  该项目帮忙用户熟悉功能的使用，结构体序列化蓝图在下个版本提供。
 
+# 视频教程 [youtube](https://www.youtube.com/watch?v=mHXQYDZ_rW4)
+
 # 设置
  1. 把'LQuickFrame' 添加到工程插件文件夹下，并开启插件。
  2. 在'Content'文件夹下右键，选择'QuickFrame/LSavePreset'创建存档预设。
